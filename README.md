@@ -61,6 +61,7 @@ This exercise notebook demonstrates how to:
 
 ## 💻 Installation
 
+
 python -m venv .venv
 source .venv/bin/activate        # Linux/macOS
 .\.venv\Scripts\activate         # Windows
