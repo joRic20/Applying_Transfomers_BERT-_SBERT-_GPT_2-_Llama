@@ -56,6 +56,18 @@ This exercise notebook demonstrates how to:
 
 ## 📂 Repository Structure
 
+NLP_4_Exercise_Transformers/
+├── data/ # Pickled and cleaned input data
+│ └── data_clean_finance.pkl
+├── notebooks/ # Jupyter notebooks
+│ └── NLP_4_Exercise_Transformers.ipynb
+├── src/ # Supporting scripts & utility functions
+│ ├── tokenization.py
+│ ├── embedding_utils.py
+│ └── benchmarking.py
+├── docs/ # Images, diagrams, project logo
+├── requirements.txt # Python dependencies
+└── README.md # 
 
 ---
 
