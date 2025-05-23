@@ -11,9 +11,8 @@
     <br />
     <a href="https://github.com/YourUsername/NLP_4_Exercise_Transformers"><strong>📓 View Notebook »</strong></a>
     ·
-    <a href="https://linkedin.com/in/YourLinkedInProfile">🔗 LinkedIn Profile</a>
+    <a href="https://linkedin.com/in/[YourLinkedInProfile](https://www.linkedin.com/in/richard-quansah-09a697168/)">🔗 LinkedIn Profile</a>
     ·
-    <a href="#contact">✉️ Contact</a>
   </p>
 </p>
 
