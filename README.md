@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/YourUsername/NLP_4_Exercise_Transformers">
     <img src="docs/logo.png" alt="Project Logo" width="120" height="120">
-  </a>
+  </a> 
 
   <h3 align="center">Advanced Transformer Representations in NLP</h3>
 
