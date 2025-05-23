@@ -55,7 +55,7 @@ This exercise notebook demonstrates how to:
 ---
 
 ## 📂 Repository Structure
-
+''''
 NLP_4_Exercise_Transformers/
 ├── data/ # Pickled and cleaned input data
 │ └── data_clean_finance.pkl
@@ -68,7 +68,7 @@ NLP_4_Exercise_Transformers/
 ├── docs/ # Images, diagrams, project logo
 ├── requirements.txt # Python dependencies
 └── README.md # 
-
+''''
 ---
 
 ## 💻 Installation
