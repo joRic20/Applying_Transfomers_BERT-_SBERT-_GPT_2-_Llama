@@ -61,13 +61,6 @@ This exercise notebook demonstrates how to:
 
 ## 💻 Installation
 
-1. **Clone the repo**
-
-   ```bash
-   git clone https://github.com/YourUsername/NLP_4_Exercise_Transformers.git
-   cd NLP_4_Exercise_Transformers
-
-
 python -m venv .venv
 source .venv/bin/activate        # Linux/macOS
 .\.venv\Scripts\activate         # Windows
